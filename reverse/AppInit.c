@@ -1,0 +1,4 @@
+BOOL AppInit (PGAMEDATA GameData)
+{
+
+}
